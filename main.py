@@ -57,7 +57,7 @@ CONFIG = {
         'BOT_TOKEN': os.environ.get('TG_BOT_TOKEN'),
         'CHANNEL_ID': os.environ.get('TG_CHANNEL_ID')
     },
-    'PROXY_URL': 'https://raw.githubusercontent.com/itsyebekhe/MTProtoNexus/refs/heads/gh-pages/extracted_proxies.json',
+    'PROXY_URL': 'https://raw.githubusercontent.com/hajtokyooo/MTProtoNexus/refs/heads/gh-pages/extracted_proxies.json',
     'TIMEOUT': 12,
     'AI_TIMEOUT': 45,
     'MAX_WORKERS': 3,
@@ -860,7 +860,7 @@ STRICT OUTPUT JSON:
         time_str = tehran_now.strftime("%H:%M")
         date_str = tehran_now.strftime("%Y/%m/%d")
 
-        base_site = "https://itsyebekhe.github.io/rasadai/"
+        base_site = "https://hajtokyooo.github.io/rasadai/"
         themes_li = "".join([f"<li>🔹 {esc(t)}</li>\n" for t in summary.get('themes', [])])
         
         forecast = summary.get('forecast', {})
@@ -902,7 +902,7 @@ STRICT OUTPUT JSON:
         inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 بولتن و داشبورد زنده", "url": base_site},
-                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
+                {"text": "🛡 پروکسی‌های فعال", "url": "https://hajtokyooo.github.io/MTProtoNexus/"}
             ]]
         }
 
@@ -965,7 +965,7 @@ STRICT OUTPUT JSON:
         title = esc(bulletin.get('title', 'بولتن خبری'))
         date_str = esc(bulletin.get('date', ''))
         time_str = esc(bulletin.get('time', '23:00'))
-        base_site = "https://itsyebekhe.github.io/rasadai/"
+        base_site = "https://hajtokyooo.github.io/rasadai/"
 
         bullets_li = "".join([f"<li>🔹 {esc(b)}</li>\n" for b in bulletin.get('bullets', [])])
         bottom_line = esc(bulletin.get('bottom_line', ''))
@@ -989,7 +989,7 @@ STRICT OUTPUT JSON:
         inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 مطالعه بولتن در داشبورد", "url": base_site},
-                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
+                {"text": "🛡 پروکسی‌های فعال", "url": "https://hajtokyooo.github.io/MTProtoNexus/"}
             ]]
         }
 
@@ -1057,7 +1057,7 @@ STRICT OUTPUT JSON:
         ir_time_str = to_farsi_num(now_ir.strftime("%H:%M"))
         ir_date_str = to_farsi_num(now_ir.strftime("%Y/%m/%d"))
 
-        base_site = "https://itsyebekhe.github.io/rasadai/"
+        base_site = "https://hajtokyooo.github.io/rasadai/"
 
         # ── Collect valid images ──
         photo_urls = []
@@ -1216,7 +1216,7 @@ STRICT OUTPUT JSON:
         inline_keyboard = {
             "inline_keyboard": [[
                 {"text": "📊 داشبورد و رادار زنده", "url": base_site},
-                {"text": "🛡 پروکسی‌های فعال", "url": "https://itsyebekhe.github.io/MTProtoNexus/"}
+                {"text": "🛡 پروکسی‌های فعال", "url": "https://hajtokyooo.github.io/MTProtoNexus/"}
             ]]
         }
 
