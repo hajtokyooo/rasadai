@@ -1,5 +1,24 @@
 [
     {
+        "id": "33e4cc418e",
+        "title_fa": "نزدیکی آمریکا و ایران با واسطه عمان برای بازگشایی هرمز",
+        "title_en": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
+        "summary": [
+            "گزارش‌ها از نزدیک شدن به یک توافق میان‌مدت می‌گوید که هدفش احیای آتش‌بس ۱۷ ژوئن واشنگتن-تهران، حل اختلافات کشتیرانی در تنگه هرمز و ایجاد فضا برای مذاکره گسترده‌تر درباره برنامه هسته‌ای است.",
+            "ترامپ دقیقاً با همان ادبیات فشار-دیپلماسی جلو آمده: می‌گوید طی ۴۸ ساعت روشن می‌شود، و در عین خوش‌بینی تهدید می‌کند «یا هرمز زود باز می‌شود یا خیلی سخت ضربه می‌خورند»؛ همزمان خبر می‌رسد تصمیم گرفته حمله بزرگ ادعایی را فعلاً اجرا نکند.",
+            "ایران مستقیم گفت‌وگوی آمریکا-ایران را رد می‌کند و می‌گوید مذاکره از مسیر عمان پیش می‌رود؛ عمان هم به‌عنوان میانجی کلاسیک، مسئولیت مدیریت کانال تنگه را در دست می‌گیرد."
+        ],
+        "impact": "اگر این توافق میان‌مدت عملی شود، ریسک درگیری دریایی در مهم‌ترین گلوگاه انرژی خاورمیانه پایین می‌آید و کانال مذاکرات بازتر می‌شود.",
+        "tag": "تنگه هرمز",
+        "urgency": 8,
+        "sentiment": 0.35,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/iran-oman-us-close-hormuz-120756708.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/iran-oman-us-close-hormuz-120756708.html",
+        "image": "http://www.bing.com/th?id=ONUT.Njx-rWi_saEETIuJdsZtfA&pid=News",
+        "timestamp": 1785906360.0
+    },
+    {
         "id": "97b6cd8f67",
         "title_fa": "ترامپ درباره هرمز اولتیماتوم داد؛ تهدید «حمله ویرانگر»",
         "title_en": "#ISRAELIRANWAR. Qassem, Hezbollah calls on al-Jawlani/a Sharaa for an agreement on common interests. Qatar: Hamas has fulfilled all the terms of the agreement, now it's ...",
@@ -36,6 +55,26 @@
         "clean_url": "https://www.msn.com/en-us/money/economy/bessent-s-hormuz-signal-lifts-mexican-peso-rally-may-be-thinner-than-it-looks/ar-AA29orKd",
         "image": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA29pApO.img?w=2555&h=1761&m=4&q=94",
         "timestamp": 1785886526.0
+    },
+    {
+        "id": "ec81bf8e09",
+        "title_fa": "ترامپ: اگر مذاکرات هسته‌ای فروبپاشد، «خیلی سخت» می‌زنیم",
+        "title_en": "Trump warns Iran will be hit 'really hard' if nuclear negotiations collapse again",
+        "summary": [
+            "ترامپ دوباره تهدید را مستقیم کرد: اگر مذاکرات ایران و آمریکا دوباره شکست بخورد، آمریکا می‌تواند «خیلی سخت» ضربه بزند و از نظر او اصل ساده است: ایران نباید سلاح هسته‌ای داشته باشد.",
+            "او می‌گوید اقدام نظامی هنوز گزینه روی میز است و «سخت‌زدن» هنوز نیامده؛ یعنی همزمان با صحبت از دیپلماسی، فشار را برای وادارکردن ایران به توافق حفظ می‌کند.",
+            "این موضع چند روز پس از عقب‌نشینی ترامپ از یک حمله بزرگ مطرح شد؛ حمله‌ای که می‌گوید تا جای امکان با درخواست کشورها برای وقت مذاکره عقب افتاد.",
+            "درگیری لفظی هم ادامه دارد: ترامپ ادعای ایران درباره نبود گفت‌وگوی مستقیم را «دروغ» می‌خواند، در حالی که گزارش‌ها از پیشرفت میان ایران و عمان برای بازگشایی تنگه حکایت می‌کند."
+        ],
+        "impact": "ایران را زیر فشار دوگانه مذاکره-تهدید نگه می‌دارد و احتمال هرگونه شکست در روند گفت‌وگو را به موج حملات یا افزایش ریسک تنگه هرمز گره می‌زند.",
+        "tag": "نظامی-هسته‌ای",
+        "urgency": 9,
+        "sentiment": -0.8,
+        "source": "Yahoo",
+        "url": "https://www.yahoo.com/news/politics/articles/trump-warns-iran-hit-really-062809475.html",
+        "clean_url": "https://www.yahoo.com/news/politics/articles/trump-warns-iran-hit-really-062809475.html",
+        "image": "http://www.bing.com/th?id=ONUT.lelS-Z98KqVTrRetlVgx8g&pid=News",
+        "timestamp": 1785886080.0
     },
     {
         "id": "ffb16af006",
@@ -5622,43 +5661,5 @@
         "image": "http://www.bing.com/th?id=ONUT.ibQBUYaSMvPFiIrVUJNmAQ&pid=News",
         "timestamp": 1785053580.0,
         "id": "9af4fcf95f"
-    },
-    {
-        "title_fa": "گسترش حمله به کشتی‌ها؛ افزایش تانکرهای هدف در سایه کشیده شدن درگیری آمریکا-ایران به کل منطقه",
-        "title_en": "More Tankers Come Under Attack as US-Iran Conflict Spreads in the Region",
-        "summary": [
-            "طبق گزارش EnergyNow، با گسترش تنش آمریکا-ایران، حملات جدید متوجه تانکرها شده و تعداد کشتی‌های در معرض هدف افزایش یافته است.",
-            "این روند نشان می‌دهد درگیری از سطح درگیری‌های محدود به یک الگوی امنیتی گسترده‌تر در مسیرهای دریایی تبدیل شده و ریسک عملیاتی برای تجارت انرژی بالا رفته است.",
-            "در نبود جزئیات بیشتر درباره طرف‌های درگیر، نوع حمله و کشور/بندرهای متاثر، جمع‌بندی اصلی این است که بی‌ثباتی مستقیم به زنجیره تامین سوخت و هزینه‌های بیمه و حمل منتقل می‌شود."
-        ],
-        "impact": "افزایش حملات به تانکرها، نااطمینانی و هزینه حمل‌ونقل انرژی را در منطقه بالا می‌برد و فشار غیرمستقیم اقتصادی بر هر طرف وابسته به صادرات/واردات انرژی ایجاد می‌کند.",
-        "tag": "نظامی",
-        "urgency": 7,
-        "sentiment": -0.6,
-        "source": "EnergyNow",
-        "url": "https://www.ndtv.com/world-news/iran-us-war-news-live-updates-houthis-attack-saudi-tankers-red-sea-us-hits-iran-strait-of-hormuz-11808915",
-        "clean_url": "https://www.ndtv.com/world-news/iran-us-war-news-live-updates-houthis-attack-saudi-tankers-red-sea-us-hits-iran-strait-of-hormuz-11808915",
-        "image": "https://images.unsplash.com/photo-1509316975850-ff9c5deb0cd9?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785052852.0,
-        "id": "7ea0b8b71c"
-    },
-    {
-        "title_fa": "به‌روزرسانی زنده: گزارش‌های لحظه‌ای درباره اسرائیل، ایران و تحولات خاورمیانه",
-        "title_en": "Live Updates: Latest from Israel, Iran, and Middle East",
-        "summary": [
-            "منبع اعلامی «The Jerusalem Post» با عنوان «Live Updates: Latest from Israel, Iran, and Middle East» صرفاً قالب خبر زنده است و در متن ارسالی هیچ رویداد مشخص (مذاکره، حمله، تحریم، اظهارنظر مسئولان، یا داده اقتصادی) ذکر نشده است.",
-            "با توجه به نبود جزئیات در محتوای ارائه‌شده، امکان تحلیل دقیق از فشار خارجی، نقش بازیگران خارجی، یا روندهای داخلی (اعتراضات/اقتصاد) وجود ندارد و هرگونه نتیجه‌گیری فراتر از همین عنوان، غیرقابل اتکا و غیرقابل راستی‌آزمایی است.",
-            "این صفحه/تیتر به‌تنهایی نشان‌دهنده احتمال پوشش مداوم خبرهاست، اما چون اطلاعات قابل استناد در درخواست شما نیامده، نمی‌توان برای سناریوسازی راهبردی به آن اتکا کرد."
-        ],
-        "impact": "در وضعیت فعلی، چون هیچ رویداد قابل‌مشاهده‌ای در متن ارائه‌شده نیست، اثر راهبردی قابل ارزیابی نیست.",
-        "tag": "بی‌جزئیات",
-        "urgency": 1,
-        "sentiment": 0.0,
-        "source": "The Jerusalem Post",
-        "url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-netanyahu-to-visit-us-next-week-as-american-strikes-on-iran-continue/ar-AA28ENE0",
-        "clean_url": "https://www.msn.com/en-in/news/other/us-israel-iran-war-latest-live-news-trump-says-netanyahu-to-visit-us-next-week-as-american-strikes-on-iran-continue/ar-AA28ENE0",
-        "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785052805.0,
-        "id": "d3b987657a"
     }
 ]
