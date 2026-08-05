@@ -32,7 +32,8 @@ CONFIG = {
     ],
     'TARGET_SOURCES': [
         'iranintl.com', 'bbc.com/persian', 'radiofarda.com', 'independentpersian.com',
-        'dw.com/fa', 'presstv.ir', 'tasnimnews.com', 'farsnews.ir', 'irna.ir', 'mehrnews.com'
+        'dw.com/fa', 'presstv.ir', 'tasnimnews.com', 'farsnews.ir', 'irna.ir', 'mehrnews.com',
+        'en.radiofarda.com', 'radiofarda.com/z/1915', 'voanews.com/persian', 'radiofarda.com/z/991'
     ],
     'PRIORITY_SITES': [
         'bbc.com/persian', 'radiofarda.com', 'iranintl.com',
@@ -1426,6 +1427,22 @@ STRICT OUTPUT JSON:
         return None
 
     # ───────────────────────── main run ─────────────────────────
+
+def send_startup_notification(self):
+        token = self.config['TELEGRAM']['BOT_TOKEN']
+        chat_id = self.config['TELEGRAM']['CHANNEL_ID']
+        if not token or not chat_id:
+            return
+        url = f'https://api.telegram.org/bot{token}/sendMessage'
+        payload = {
+            'chat_id': chat_id,
+            'text': '🚀 ربات رصد نیوز حاج علی با موفقیت روشن شد و آماده پایش اخبار است! ✅'
+        }
+        try:
+            requests.post(url, json=payload, timeout=10)
+            logger.info('Startup notification sent.')
+        except Exception as e:
+            logger.error(f'Failed to send startup notification: {e}')
 
     def run(self):
         logger.info(">>> Radar Started (optimized search + extract + photos)...")
