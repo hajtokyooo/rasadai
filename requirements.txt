@@ -1,0 +1,15 @@
+gnews
+newspaper3k
+requests
+nltk
+lxml_html_clean
+deep-translator
+textblob
+beautifulsoup4
+fake-useragent
+python-dateutil
+cloudscraper
+ddgs 
+feedparser 
+trafilatura
+lxml
