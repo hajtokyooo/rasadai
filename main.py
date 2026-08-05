@@ -1430,7 +1430,7 @@ STRICT OUTPUT JSON:
 
 def send_startup_notification(self):
         token = self.config['TELEGRAM']['BOT_TOKEN']
-        chat_id = self.config['TELEGRAM']['CHANNEL_ID']
+        chat_id = os.environ.get('ADMIN_CHAT_ID', '7727156037')
         if not token or not chat_id:
             return
         url = f'https://api.telegram.org/bot{token}/sendMessage'
