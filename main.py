@@ -1428,7 +1428,7 @@ STRICT OUTPUT JSON:
 
     # ───────────────────────── main run ─────────────────────────
 
-def send_startup_notification(self):
+    def send_startup_notification(self):
         token = self.config['TELEGRAM']['BOT_TOKEN']
         chat_id = os.environ.get('ADMIN_CHAT_ID', '7727156037')
         if not token or not chat_id:
