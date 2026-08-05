@@ -19,6 +19,25 @@
         "timestamp": 1785906360.0
     },
     {
+        "id": "0a425efe2b",
+        "title_fa": "ترامپ: فشار نظامی برای وادار کردن ایران به توقف",
+        "title_en": "Iran’s regime won’t negotiate in good faith. Trump must break its grip",
+        "summary": [
+            "ترامپ در کمپ دیوید چارچوب تازه‌ای را علنی کرد: هدف فقط مهار هسته‌ای نیست؛ «فلج توان حکومت‌داری و ادامه بقا» با تشدید فشار نظامی دنبال می‌شود.",
+            "او می‌گوید آمریکا تا جایی پیش می‌رود که رژیم دیگر «نتواند ادامه دهد»؛ اما لغوهای پیاپی حملات برنامه‌ریزی‌شده، اعتبار و انسجام استراتژی واشنگتن را زیر سوال برده و تهران از این شکافِ احتمالی سود می‌برد.",
+            "تهران همزمان با تکیه به حمایت روسیه و چین، از یک مسیر حساب‌شده به جنگ روانی رفته: تهدید به پاسخ گسترده در برابر حمله به زیرساخت‌های حیاتی و این یعنی احتمال رویارویی وسیع‌تر با آمریکا/اسرائیل در ذهنش پررنگ است."
+        ],
+        "impact": "احتمال تشدید فشار نظامی و حملات محدودتر اما پیگیرتر علیه توان‌های حیاتی ایران بالا می‌رود و ریسک درگیری مستقیم بیشتر می‌شود.",
+        "tag": "نظامی",
+        "urgency": 8,
+        "sentiment": -0.7,
+        "source": "Fox News",
+        "url": "https://www.foxnews.com/opinion/irans-regime-wont-negotiate-good-faith-trump-must-break-its-grip",
+        "clean_url": "https://www.foxnews.com/opinion/irans-regime-wont-negotiate-good-faith-trump-must-break-its-grip",
+        "image": "http://www.bing.com/th?id=ONUT.0FXoN1NygERP4B2V6kCDBw&pid=News",
+        "timestamp": 1785895200.0
+    },
+    {
         "id": "97b6cd8f67",
         "title_fa": "ترامپ درباره هرمز اولتیماتوم داد؛ تهدید «حمله ویرانگر»",
         "title_en": "#ISRAELIRANWAR. Qassem, Hezbollah calls on al-Jawlani/a Sharaa for an agreement on common interests. Qatar: Hamas has fulfilled all the terms of the agreement, now it's ...",
@@ -5642,24 +5661,5 @@
         "image": "http://www.bing.com/th?id=ONUT.N85kqysRwCJWy5s_tU6VdQ&pid=News",
         "timestamp": 1785055140.0,
         "id": "3b8f654cec"
-    },
-    {
-        "title_fa": "تغییر فهرست تلفات جنگی ایران از سوی پنتاگون؛ حذف ۴ نیروی کشته‌شده در جنگ‌های دوباره",
-        "title_en": "Pentagon's official Iran war death toll no longer lists 4 troops killed during renewed fighting",
-        "summary": [
-            "بر اساس گزارش WPLG Local 10، پنتاگون دیگر «۴ نیروی» کشته‌شده را در فهرست رسمی تلفات جنگی مربوط به ایران ارائه نمی‌کند، چون این رقم دیگر در فهرست جدیدِ تلفاتِ جنگ‌های ازسرگرفته دیده نمی‌شود.",
-            "این تغییر در فهرست رسمی تلفات، نشانه‌ای از بازنگری/تغییر روایت اداری درباره حادثه‌های اخیر است، بدون اینکه متن گزارش جزئیات علت حذف عدد ۴ را توضیح دهد.",
-            "از آنجا که علت دقیق این حذف در خبر ذکر نشده، پیام مستقیم سیاسی-عملی آن بیشتر به مدیریت اطلاعات جنگ و حساب‌و‌کتاب رسمی مربوط است تا یک تغییر روشن در واقعیت میدانی."
-        ],
-        "impact": "تغییر در فهرست تلفات رسمی، می‌تواند به بی‌اعتمادی عمومی نسبت به اطلاعات جنگی منجر شود و پیام سیاسی سخت‌تری برای مدیریت افکار عمومی داشته باشد.",
-        "tag": "اطلاعات",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "WPLG Local 10",
-        "url": "https://www.local10.com/news/politics/2026/07/26/pentagons-official-iran-war-death-toll-no-longer-lists-4-troops-killed-during-renewed-fighting/",
-        "clean_url": "https://www.local10.com/news/politics/2026/07/26/pentagons-official-iran-war-death-toll-no-longer-lists-4-troops-killed-during-renewed-fighting",
-        "image": "http://www.bing.com/th?id=ONUT.ibQBUYaSMvPFiIrVUJNmAQ&pid=News",
-        "timestamp": 1785053580.0,
-        "id": "9af4fcf95f"
     }
 ]
