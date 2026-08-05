@@ -895,7 +895,7 @@ STRICT OUTPUT JSON:
             f"<li>💥 <b>آسیب‌پذیری حاکمیتی:</b> {vuln_text}</li>\n"
             f"</ul>\n"
             f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده رصد</a> | 🆔 @RasadAIOfficial</p>\n"
+            f"<p>📊 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده رصد</a> | 🆔 @rasadnewsai</p>\n"
             f"</footer>\n"
         )
 
@@ -934,7 +934,7 @@ STRICT OUTPUT JSON:
             f"🧠 <b>تحلیل استراتژیک:</b>\n{esc(summary.get('strategic_assessment'))}\n\n"
             f"🔮 <b>پیش‌بینی سناریو:</b>\n{most_likely}\n\n"
             f"📈 <b>سطح ریسک:</b> <b>{summary.get('risk_level', '?')}/10</b>\n\n"
-            f"🔗 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | 🆔 @RasadAIOfficial"
+            f"🔗 <a href=\"{base_site}\">مشاهده کامل در داشبورد زنده</a> | 🆔 @rasadnewsai"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -982,7 +982,7 @@ STRICT OUTPUT JSON:
             f"<p>{bottom_line}</p>\n"
             f"</details>\n"
             f"<footer>\n"
-            f"<p>📊 <a href=\"{base_site}\">مشاهده جزییات کامل در داشبورد زنده</a> | 🆔 @RasadAIOfficial</p>\n"
+            f"<p>📊 <a href=\"{base_site}\">مشاهده جزییات کامل در داشبورد زنده</a> | 🆔 @rasadnewsai</p>\n"
             f"</footer>\n"
         )
 
@@ -1021,7 +1021,7 @@ STRICT OUTPUT JSON:
             f"───────────────────\n\n"
             f"{bullets_text}"
             f"💡 <b>جمع‌بندی نهایی:</b>\n{bottom_line}\n\n"
-            f"📊 <a href=\"{base_site}\">مشاهده جزییات بیشتر در داشبورد</a> | 🆔 @RasadAIOfficial"
+            f"📊 <a href=\"{base_site}\">مشاهده جزییات بیشتر در داشبورد</a> | 🆔 @rasadnewsai"
         )
 
         standard_api = f"https://api.telegram.org/bot{token}/sendMessage"
@@ -1206,7 +1206,7 @@ STRICT OUTPUT JSON:
             f"{tags_html}"
             f"<footer>\n"
             f"{proxy_html}"
-            f"<p>📊 <a href=\"{base_site}\">داشبورد زنده رصد</a> | 🆔 @RasadAIOfficial</p>\n"
+            f"<p>📊 <a href=\"{base_site}\">داشبورد زنده رصد</a> | 🆔 @rasadnewsai</p>\n"
             f"</footer>\n"
         )
 
