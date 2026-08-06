@@ -1,5 +1,23 @@
 [
     {
+        "id": "a89cbfc420",
+        "title_fa": "آمریکا تحریم ضدتروریسم علیه «فلای بغداد» را برداشت",
+        "title_en": "US lifts sanctions on Fly Baghdad, previously linked to Iran's IRGC",
+        "summary": [
+            "وزارت خزانه‌داری آمریکا تحریم‌های ضدتروریسم را از ایرلاین عراقی «Fly Baghdad» و دو فروند هواپیما که از ۲۰۲۴ به‌خاطر ارتباط ادعایی با نیروی قدس وابسته به سپاه هدف گرفته بودند، لغو کرد.",
+            "این تصمیم یعنی واشنگتن عملاً مسیر تنش اقتصادی-امنیتی با یک بازیگر حمل‌ونقل عراق را بازتر کرده؛ هم‌زمان هم به تهران پیام می‌دهد که موضوع «اتصال به سپاه» را می‌شود با رفع ریسک/روایت‌ها از روی پرونده حذف کرد."
+        ],
+        "impact": "برداشتن تحریم ضدتروریسم احتمالاً هزینه‌های عملیاتی و محدودیت‌های بانکی/تجاری «Fly Baghdad» را کاهش می‌دهد.",
+        "tag": "تحریم",
+        "urgency": 6,
+        "sentiment": 0.25,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/news/world/us-lifts-sanctions-on-fly-baghdad-previously-linked-to-irans-irgc/ar-AA29sXJG",
+        "clean_url": "https://www.msn.com/en-us/news/world/us-lifts-sanctions-on-fly-baghdad-previously-linked-to-irans-irgc/ar-AA29sXJG",
+        "image": "https://www.reuters.com/resizer/v2/YKW2ZTXAYVNFRIPJU2TZJ37T6Y.jpg?auth=ea416c32665a702824f4e2b4c48496d1656c90fd43b7f181798c86997e1cbecb&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1785948291.0
+    },
+    {
         "id": "33e4cc418e",
         "title_fa": "نزدیکی آمریکا و ایران با واسطه عمان برای بازگشایی هرمز",
         "title_en": "Iran, Oman, US ‘close’ to Hormuz deal: What do they all want?",
@@ -5642,24 +5660,5 @@
         "image": "http://www.bing.com/th?id=ONUT.ZoX0__hVbpnsBfA0PEqG7g&pid=News",
         "timestamp": 1785057540.0,
         "id": "2cc764a5a8"
-    },
-    {
-        "title_fa": "چرا موشک «خیبرشکن» ایران توجه‌ها را جلب می‌کند",
-        "title_en": "Why Iran’s Kheibar Shekan Missile Is Drawing Attention",
-        "summary": [
-            "مقاله نیوزویک روی این محور می‌ایستد که توان موشکی بالستیک ایران، در نگاه بیرونی، یکی از بزرگ‌ترین تهدیدهای نظامی آن برای خاورمیانه است و به‌طور خاص «خیبرشکن» در کانون توجه قرار گرفته است.",
-            "تمرکز گزارش بر «جلب توجه» صرفاً به خودِ موشک نیست، بلکه به سیگنال راهبردی مرتبط می‌شود: رژیم با نمایش یا برجسته‌سازی قابلیت‌های موشکی، ظرفیت بازدارندگی-تهاجمی خود را پررنگ می‌کند.",
-            "با این حال متن فقط در سطح کلی باقی می‌ماند و جزئیات قابل‌بررسی از آزمایش، رهگیری‌ناپذیری، یا اثر مستقیم بر اهداف مشخص ارائه نمی‌کند؛ بنابراین ارزیابی باید به همان چارچوب «بزرگ‌ترین تهدید بودن توان بالستیک» محدود بماند."
-        ],
-        "impact": "این برجسته‌سازی می‌تواند هزینه سیاسی و امنیتی ایران را در منطقه افزایش دهد و همزمان ریسک تشدید تنش‌های نظامی را بالا ببرد، بدون اینکه در متن شواهد عملیاتی جدیدی ارائه شود.",
-        "tag": "نظامی",
-        "urgency": 6,
-        "sentiment": -0.2,
-        "source": "Newsweek",
-        "url": "https://www.newsweek.com/why-irans-kheibar-shekan-missile-is-drawing-attention-12245644",
-        "clean_url": "https://www.newsweek.com/why-irans-kheibar-shekan-missile-is-drawing-attention-12245644",
-        "image": "http://www.bing.com/th?id=ONUT.N85kqysRwCJWy5s_tU6VdQ&pid=News",
-        "timestamp": 1785055140.0,
-        "id": "3b8f654cec"
     }
 ]
