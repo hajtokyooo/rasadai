@@ -1532,7 +1532,8 @@ STRICT OUTPUT JSON:
                     'war', 'conflict', 'military', 'strike', 'attack', 'nuclear',
                     'نظامی', 'حمله', 'هسته‌ای', 'نیابتی'
                 ])
-                if urgency >= min_urgency or (urgency >= 6 and is_conflict):
+                # Relaxed filter for Haj Ali
+                if urgency >= min_urgency or urgency >= 2:
                     telegram_items.append(item)
 
             if telegram_items:
