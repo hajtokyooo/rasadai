@@ -18,6 +18,25 @@
         "timestamp": 1786128780.0
     },
     {
+        "id": "98c81ad551",
+        "title_fa": "تحریم صرافی ارز دیجیتال دبی به بهانه کمک به سپاه",
+        "title_en": "US sanctions Dubai crypto exchange for aiding Iran's IRGC, following a Reuters report",
+        "summary": [
+            "آمریکا یک صرافی چندایالتیِ بدون مجوز را تحریم کرد و مدعی شد برای انتقال و تبدیل میلیون‌ها دلار ارز دیجیتال، نقش واسطه داشته است.",
+            "هدف ادعا شده، کمک به IRGC و گروه‌های مرتبط با دولت ایران است؛ یعنی واشنگتن روی «مسیرهای مالی» و نه صرفاً دارایی‌های دولتی ایران قفل کرده.",
+            "گسترش تحریم‌ها به یک بازیگر خارج از خاک آمریکا، ریسک کارکرد شبکه‌های رمزارزی را برای شرکت‌های همکار و بانک‌دارهای بیرونی بالا می‌برد."
+        ],
+        "impact": "این اقدام می‌تواند جریان مبادلات و شریک‌های عملیاتی صرافی‌های مشابه را مختل کرده و هزینه ریسک مالی برای بازارهای منطقه‌ای را بالا ببرد.",
+        "tag": "تحریم",
+        "urgency": 7,
+        "sentiment": -0.55,
+        "source": "Reuters",
+        "url": "https://www.msn.com/en-us/money/companies/us-sanctions-dubai-crypto-exchange-for-aiding-irans-irgc-following-a-reuters-report/ar-AA29CJvT",
+        "clean_url": "https://www.msn.com/en-us/money/companies/us-sanctions-dubai-crypto-exchange-for-aiding-irans-irgc-following-a-reuters-report/ar-AA29CJvT",
+        "image": "https://www.reuters.com/resizer/v2/5QMK2A7SZ5KGBJ6DC4B3YALJPI.jpg?auth=f231294e9ee8ab4da2e6333ddaef2cb0c420d045e2444a91eb5c8a7eacfa7695&height=1005&width=1920&quality=80&smart=true",
+        "timestamp": 1786126700.0
+    },
+    {
         "id": "8ca74cfefb",
         "title_fa": "خزانه‌داری آمریکا صرافی‌های ارز دیجیتال را برای پول‌شویی ایران می‌زند",
         "title_en": "Treasury Sanctions Crypto Exchanges It Says Laundered Millions for Iran",
@@ -5640,24 +5659,5 @@
         "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
         "timestamp": 1785066300.0,
         "id": "c7cd66c1d7"
-    },
-    {
-        "title_fa": "توقف دوم حملات آمریکا علیه ایران همزمان با ادامه مذاکرات صلح",
-        "title_en": "US pauses attacks on Iran for a second day as peace talks continue",
-        "summary": [
-            "طبق گزارش گاردین، آمریکا برای دومین روز متوالی حملات علیه ایران را متوقف کرده، در حالی که مذاکرات صلح در جریان است؛ این یعنی اهرم فشار نظامی آمریکا به‌طور موقت برای دادن فضا به کانال دیپلماتیک کاهش یافته.",
-            "این مکث می‌تواند نشانه‌ای از جابه‌جایی موقت راهبرد از «فشار از مسیر حمله» به «فشار از مسیر مذاکره» باشد، اما چون محتوای توافق یا خواسته‌های طرفین مشخص نشده، اثر آن بیشتر حالت تاکتیکی دارد تا نتیجه‌دار.",
-            "نبود اطلاعات درباره‌ی هم‌زمانی تصمیمات داخلی ایران (در حوزه اقتصاد، سرکوب یا سازوکار مذاکرات) اجازه نمی‌دهد روند ناآرامی یا فروپاشی اقتصادی را به این خبر نسبت بدهیم؛ این گزارش فقط از تغییر فاز در عملیات آمریکا خبر می‌دهد."
-        ],
-        "impact": "توقف دوباره حملات آمریکا در زمان مذاکرات، به‌صورت موقت فشار نظامی را کاهش می‌دهد و می‌تواند بر چانه‌زنی اثر بگذارد، اما بدون جزئیات مذاکرات نمی‌توان از نتیجه پایدار یا عقب‌نشینی راهبردی حرف زد.",
-        "tag": "دیپلماسی",
-        "urgency": 6,
-        "sentiment": 0.1,
-        "source": "The Guardian",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXpRZUVKLWdPbXlybXhsRDdrOG9nLUMtVGg2RkFhdHF3SGxTZndLTDJ6M2xKaDRWd1JJY3VjMVd5bnMyUjhFT2JIbF8tY3lfM2tncUl5bjJTWlI2UjBpR3VlN2ZwbTc2cXRaNXJyZUJwbHN2OFI4cGw4djRJcHhNV0ZfNHNOaEpSdXl3cXdSM1RqRFhYV241NHRoRjVTd2tsRFE?oc=5&hl=en-US&gl=US&ceid=US:en",
-        "clean_url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOSXpRZUVKLWdPbXlybXhsRDdrOG9nLUMtVGg2RkFhdHF3SGxTZndLTDJ6M2xKaDRWd1JJY3VjMVd5bnMyUjhFT2JIbF8tY3lfM2tncUl5bjJTWlI2UjBpR3VlN2ZwbTc2cXRaNXJyZUJwbHN2OFI4cGw4djRJcHhNV0ZfNHNOaEpSdXl3cXdSM1RqRFhYV241NHRoRjVTd2tsRFE",
-        "image": "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?auto=format&fit=crop&w=1200&q=80",
-        "timestamp": 1785064680.0,
-        "id": "842107b25a"
     }
 ]
